@@ -1,7 +1,20 @@
 
 {
   "posts": [
-    { "id": 11, "title": "json-server", "author": "typicode" }
+  {
+    "id": 1,
+    "date_start": "1616166900000",
+    "date_finish": "1616177700000",
+    "name": "Read lord of the rings",
+    "description": "I should read it"
+  },
+  {
+    "id": 2,
+    "date_start": "1616264100000",
+    "date_finish": "1616278800000",
+    "name": "Read lord of the rings",
+    "description": "I should read it"
+  }
   ],
   "comments": [
     { "id": 12, "body": "some comment", "postId": 1 }
